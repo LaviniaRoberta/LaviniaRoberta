@@ -62,15 +62,6 @@ Acredito que aprender, compartilhar conhecimentos e trabalhar em equipe são par
 
 <br/>
 
-##  Minhas contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/LaviniaRoberta/LaviniaRoberta/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-
-</div>
-
-<br/>
 
 ## 🌐 Vamos nos conectar?
 
