@@ -40,15 +40,6 @@ Acredito que aprender, compartilhar conhecimentos e trabalhar em equipe são par
 
 <br/>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=LaviniaRoberta&show_icons=true&hide_border=true&title_color=D94F7D&icon_color=D94F7D&text_color=805D6D&bg_color=FFF4F8&hide_rank=true&locale=pt-br"
-
-</div>
-
-<br/>
 
 ## 🌟 Minha atividade no GitHub
 
