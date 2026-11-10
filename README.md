@@ -44,9 +44,7 @@ Acredito que aprender, compartilhar conhecimentos e trabalhar em equipe são par
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LaviniaRoberta&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviniaRoberta&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=LaviniaRoberta&show_icons=true&hide_border=true&title_color=D94F7D&icon_color=D94F7D&text_color=805D6D&bg_color=FFF4F8&hide_rank=true&locale=pt-br"
 
 </div>
 
