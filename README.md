@@ -62,7 +62,7 @@ Acredito que aprender, compartilhar conhecimentos e trabalhar em equipe são par
 
 <br/>
 
-## 🐍 Minhas contribuições
+##  Minhas contribuições
 
 <div align="center">
 
