@@ -29,7 +29,7 @@ Acredito que aprender, compartilhar conhecimentos e trabalhar em equipe são par
 - 💡 Gosto de transformar ideias em projetos.
 <br/>
 
-## 🌐 Meu site de certificados
+## 💜 Meu site de certificados
 
 <div align="center">
 
