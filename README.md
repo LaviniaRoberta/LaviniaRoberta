@@ -27,7 +27,23 @@ Acredito que aprender, compartilhar conhecimentos e trabalhar em equipe são par
 - 🚀 Sempre buscando novos aprendizados.
 - 🤝 Proativa e colaborativa.
 - 💡 Gosto de transformar ideias em projetos.
+<br/>
 
+## 🌐 Meu site de certificados
+
+<div align="center">
+
+<a href="https://certificados-h9sk.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar%20meu%20site-7045A5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Um espaço para apresentar meus certificados e cursos realizados durante minha trajetória de aprendizado.**
+
+</div>
+
+<br/>
 <br/>
 
 ## 🛠️ Tecnologias e ferramentas
